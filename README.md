@@ -1,6 +1,6 @@
 # Мое некое подобие резюме
 
-## Результат
+## [Результат](https://w0lframmmm.github.io/)
 
-[Первая работа на HTML & CSS](https://w0lframmmm.github.io/)
+Первая работа на html & css
 
